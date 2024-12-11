@@ -1,0 +1,8 @@
+C:\CSparhEgitimKampi\CSharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\CSparhEgitimKampi\CSharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\CSparhEgitimKampi\CSharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\CSparhEgitimKampi\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\CSparhEgitimKampi\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.SuggestedBindingRedirects.cache
+C:\CSparhEgitimKampi\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\CSparhEgitimKampi\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\CSparhEgitimKampi\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb

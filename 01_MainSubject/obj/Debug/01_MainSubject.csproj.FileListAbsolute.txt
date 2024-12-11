@@ -1,0 +1,8 @@
+C:\CSparhEgitimKampi\CSharpEgitimKampi\01_MainSubject\bin\Debug\01_MainSubject.exe.config
+C:\CSparhEgitimKampi\CSharpEgitimKampi\01_MainSubject\bin\Debug\01_MainSubject.exe
+C:\CSparhEgitimKampi\CSharpEgitimKampi\01_MainSubject\bin\Debug\01_MainSubject.pdb
+C:\CSparhEgitimKampi\CSharpEgitimKampi\01_MainSubject\obj\Debug\01_MainSubject.csproj.AssemblyReference.cache
+C:\CSparhEgitimKampi\CSharpEgitimKampi\01_MainSubject\obj\Debug\01_MainSubject.csproj.SuggestedBindingRedirects.cache
+C:\CSparhEgitimKampi\CSharpEgitimKampi\01_MainSubject\obj\Debug\01_MainSubject.csproj.CoreCompileInputs.cache
+C:\CSparhEgitimKampi\CSharpEgitimKampi\01_MainSubject\obj\Debug\01_MainSubject.exe
+C:\CSparhEgitimKampi\CSharpEgitimKampi\01_MainSubject\obj\Debug\01_MainSubject.pdb
