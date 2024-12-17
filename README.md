@@ -1,5 +1,4 @@
 # CSharpKampi
-Murat Yücedağ YouTube C# Eğitim Kampı Dersi
 
 💻 Murat Yücedağ C# Eğitim Kampı Projeleri
 
