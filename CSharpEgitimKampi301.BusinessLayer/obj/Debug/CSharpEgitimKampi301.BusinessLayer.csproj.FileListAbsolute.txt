@@ -1,0 +1,15 @@
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.dll
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.BusinessLayer.pdb
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll.config
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.csproj.AssemblyReference.cache
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.csproj.CopyComplete
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.dll
+C:\CSparhEgitimKampi\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.pdb
