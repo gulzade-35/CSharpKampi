@@ -34,3 +34,13 @@ Bu projede foreach döngüsünü daha iyi anlamak için bir sınav sistemi uygul
 
 Bu proje parametre alarak işlem yapan ve sonuç döndüren metotlar yazmayı öğrendim.
 
+📍9.Proje: Veritabanı İşlemleri
+
+Bu projede veritabanı bağlantısı kurmayı ve veritabanından veri çekmeyi öğrendim. Kullanıcıdan tablo seçimini alarak, ilgili bilgileri ekran üzerinde listeleyen bir uygulama geliştirdim. SqlConnection ve SqlCommand sınıflarının nasıl kullanılması gerektiğini öğrendim. Bu sınıflarla veritabanına bağlanmayı öğrendim.
+
+📍10.Proje: CRUD İşlemleri
+
+Bu projede, temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirerek bir veritabanı bağlantı sağladım. SQL bağlantısını kullanarak ürün ve kategori verileriyle ekleme, silme, güncelleme ve düzenlenme işlemlerini gerçekleştirdim.
+
+📍 11.Proje: EfTravel İstatistik Paneli
+
